@@ -1,0 +1,156 @@
+date,team1,team2,toss_winner,toss_decision,venue,winner,win_by_runs,win_by_wickets
+2022-03-28,RCB,RR,RCB,field,"MA Chidambaram Stadium, Chennai",RR,28,0
+2022-03-28,GT,KKR,GT,bat,"Eden Gardens, Kolkata",KKR,68,0
+2022-03-31,RCB,CSK,CSK,field,"Wankhede Stadium, Mumbai",CSK,63,0
+2022-03-31,GT,PBKS,PBKS,field,"Narendra Modi Stadium, Ahmedabad",GT,0,8
+2022-04-07,RCB,RR,RR,field,"Arun Jaitley Stadium, Delhi",RCB,0,7
+2022-04-07,GT,CSK,CSK,bat,"Arun Jaitley Stadium, Delhi",CSK,0,3
+2022-04-11,RCB,LSG,LSG,field,"Narendra Modi Stadium, Ahmedabad",LSG,0,5
+2022-04-11,GT,DC,DC,field,"M. Chinnaswamy Stadium, Bengaluru",DC,0,8
+2022-04-16,RCB,RR,RCB,bat,"Eden Gardens, Kolkata",RR,0,8
+2022-04-16,GT,RR,GT,bat,"Eden Gardens, Kolkata",GT,66,0
+2022-04-18,RCB,GT,GT,field,"M. Chinnaswamy Stadium, Bengaluru",RCB,0,7
+2022-04-20,RCB,SRH,SRH,field,"MA Chidambaram Stadium, Chennai",SRH,0,6
+2022-04-20,GT,RR,GT,field,"MA Chidambaram Stadium, Chennai",GT,13,0
+2022-04-25,RCB,RR,RR,field,"Rajiv Gandhi International Stadium, Hyderabad",RCB,0,5
+2022-04-25,GT,CSK,GT,bat,"HPCA Stadium, Dharamshala",CSK,0,3
+2022-04-30,GT,RCB,RCB,bat,"Brabourne Stadium, Mumbai",GT,0,6
+2022-05-01,RCB,CSK,RCB,field,"Rajiv Gandhi International Stadium, Hyderabad",RCB,0,8
+2022-05-01,GT,KKR,GT,field,"HPCA Stadium, Dharamshala",KKR,0,7
+2022-05-06,RCB,PBKS,PBKS,field,"Arun Jaitley Stadium, Delhi",PBKS,0,4
+2022-05-06,GT,RR,GT,field,"MA Chidambaram Stadium, Chennai",GT,8,0
+2022-05-10,GT,RCB,GT,field,"Narendra Modi Stadium, Ahmedabad",RCB,0,3
+2022-05-11,RCB,LSG,RCB,field,"Arun Jaitley Stadium, Delhi",LSG,36,0
+2022-05-11,GT,PBKS,GT,field,"HPCA Stadium, Dharamshala",PBKS,0,3
+2022-05-15,GT,PBKS,GT,field,"Wankhede Stadium, Mumbai",GT,66,0
+2022-05-15,RCB,DC,DC,field,"Wankhede Stadium, Mumbai",RCB,0,4
+2022-05-19,RCB,GT,GT,bat,"Wankhede Stadium, Mumbai",RCB,0,8
+2022-05-20,RCB,RR,RCB,field,"MA Chidambaram Stadium, Chennai",RCB,0,8
+2022-05-20,GT,LSG,GT,field,"M. Chinnaswamy Stadium, Bengaluru",GT,36,0
+2022-05-25,RCB,RR,RR,bat,"M. Chinnaswamy Stadium, Bengaluru",RR,6,0
+2022-05-25,GT,KKR,GT,field,"M. Chinnaswamy Stadium, Bengaluru",GT,0,4
+2022-05-31,RCB,PBKS,PBKS,bat,"MA Chidambaram Stadium, Chennai",RCB,48,0
+2022-05-31,GT,MI,MI,field,"Rajiv Gandhi International Stadium, Hyderabad",MI,0,5
+2023-03-26,RCB,PBKS,PBKS,field,"Eden Gardens, Kolkata",PBKS,20,0
+2023-03-26,GT,CSK,CSK,field,"M. Chinnaswamy Stadium, Bengaluru",CSK,0,6
+2023-04-02,GT,CSK,CSK,field,"M. Chinnaswamy Stadium, Bengaluru",CSK,61,0
+2023-04-02,RCB,RR,RR,field,"HPCA Stadium, Dharamshala",RCB,0,6
+2023-04-05,GT,SRH,SRH,field,"M. Chinnaswamy Stadium, Bengaluru",GT,16,0
+2023-04-05,RCB,MI,RCB,bat,"Arun Jaitley Stadium, Delhi",RCB,0,4
+2023-04-10,RCB,LSG,RCB,field,"Rajiv Gandhi International Stadium, Hyderabad",RCB,0,5
+2023-04-10,GT,RR,RR,bat,"Rajiv Gandhi International Stadium, Hyderabad",GT,40,0
+2023-04-16,RCB,SRH,SRH,field,"Wankhede Stadium, Mumbai",RCB,0,7
+2023-04-16,GT,MI,MI,field,"Rajiv Gandhi International Stadium, Hyderabad",MI,0,3
+2023-04-18,RCB,GT,GT,field,"M. Chinnaswamy Stadium, Bengaluru",RCB,0,7
+2023-04-20,RCB,RR,RR,field,"M. Chinnaswamy Stadium, Bengaluru",RR,0,5
+2023-04-20,GT,CSK,GT,field,"Rajiv Gandhi International Stadium, Hyderabad",GT,0,8
+2023-04-26,GT,LSG,GT,field,"Eden Gardens, Kolkata",GT,65,0
+2023-04-26,RCB,DC,DC,field,"Eden Gardens, Kolkata",DC,0,4
+2023-05-02,RCB,RR,RR,field,"HPCA Stadium, Dharamshala",RCB,0,7
+2023-05-02,GT,DC,DC,field,"MA Chidambaram Stadium, Chennai",GT,0,3
+2023-05-06,RCB,LSG,RCB,bat,"Arun Jaitley Stadium, Delhi",RCB,36,0
+2023-05-06,GT,PBKS,PBKS,field,"M. Chinnaswamy Stadium, Bengaluru",GT,58,0
+2023-05-10,GT,RCB,GT,field,"Narendra Modi Stadium, Ahmedabad",RCB,0,3
+2023-05-11,RCB,KKR,KKR,field,"Rajiv Gandhi International Stadium, Hyderabad",KKR,0,4
+2023-05-11,GT,PBKS,PBKS,bat,"HPCA Stadium, Dharamshala",GT,0,5
+2023-05-16,RCB,SRH,RCB,field,"Arun Jaitley Stadium, Delhi",RCB,28,0
+2023-05-16,GT,LSG,LSG,field,"Wankhede Stadium, Mumbai",LSG,12,0
+2023-05-21,RCB,GT,GT,field,"M. Chinnaswamy Stadium, Bengaluru",GT,0,6
+2023-05-21,GT,KKR,KKR,field,"M. Chinnaswamy Stadium, Bengaluru",GT,0,8
+2023-05-21,RCB,SRH,SRH,bat,"Eden Gardens, Kolkata",RCB,0,8
+2023-05-25,GT,LSG,LSG,bat,"Wankhede Stadium, Mumbai",GT,0,6
+2023-05-25,RCB,RR,RR,field,"Narendra Modi Stadium, Ahmedabad",RR,12,0
+2023-05-31,GT,DC,GT,field,"HPCA Stadium, Dharamshala",GT,0,4
+2023-05-31,RCB,PBKS,RCB,field,"HPCA Stadium, Dharamshala",RCB,0,4
+2024-03-26,RCB,MI,MI,bat,"MA Chidambaram Stadium, Chennai",MI,0,4
+2024-03-26,GT,MI,GT,field,"M. Chinnaswamy Stadium, Bengaluru",MI,0,7
+2024-03-31,RCB,CSK,RCB,field,"Rajiv Gandhi International Stadium, Hyderabad",RCB,0,5
+2024-03-31,GT,RR,RR,field,"Narendra Modi Stadium, Ahmedabad",GT,51,0
+2024-04-05,RCB,DC,DC,field,"Eden Gardens, Kolkata",DC,52,0
+2024-04-05,GT,LSG,LSG,field,"Arun Jaitley Stadium, Delhi",LSG,14,0
+2024-04-11,RCB,LSG,LSG,field,"Wankhede Stadium, Mumbai",RCB,0,3
+2024-04-11,GT,SRH,GT,field,"MA Chidambaram Stadium, Chennai",GT,0,3
+2024-04-17,RCB,RR,RR,field,"Rajiv Gandhi International Stadium, Hyderabad",RR,0,5
+2024-04-17,GT,KKR,KKR,field,"MA Chidambaram Stadium, Chennai",KKR,0,6
+2024-04-18,RCB,GT,GT,field,"M. Chinnaswamy Stadium, Bengaluru",RCB,0,7
+2024-04-20,RCB,LSG,RCB,field,"Wankhede Stadium, Mumbai",RCB,0,3
+2024-04-20,GT,MI,GT,bat,"Rajiv Gandhi International Stadium, Hyderabad",GT,0,3
+2024-04-27,RCB,RR,RCB,field,"Narendra Modi Stadium, Ahmedabad",RR,25,0
+2024-04-27,GT,LSG,LSG,field,"M. Chinnaswamy Stadium, Bengaluru",LSG,0,3
+2024-04-28,GT,RCB,RCB,field,"Narendra Modi Stadium, Ahmedabad",RCB,0,9
+2024-05-02,RCB,SRH,SRH,field,"Wankhede Stadium, Mumbai",SRH,0,7
+2024-05-02,GT,RR,GT,bat,"M. Chinnaswamy Stadium, Bengaluru",RR,21,0
+2024-05-04,RCB,GT,RCB,field,"M. Chinnaswamy Stadium, Bengaluru",RCB,0,4
+2024-05-05,GT,LSG,GT,field,"M. Chinnaswamy Stadium, Bengaluru",GT,0,6
+2024-05-05,RCB,DC,DC,field,"Wankhede Stadium, Mumbai",RCB,16,0
+2024-05-10,GT,RCB,GT,field,"Narendra Modi Stadium, Ahmedabad",RCB,0,3
+2024-05-12,RCB,MI,MI,field,"Arun Jaitley Stadium, Delhi",RCB,57,0
+2024-05-12,GT,PBKS,GT,field,"Rajiv Gandhi International Stadium, Hyderabad",PBKS,0,8
+2024-05-17,GT,MI,MI,bat,"Narendra Modi Stadium, Ahmedabad",MI,0,4
+2024-05-17,RCB,MI,RCB,bat,"MA Chidambaram Stadium, Chennai",RCB,13,0
+2024-05-20,RCB,MI,MI,field,"HPCA Stadium, Dharamshala",MI,12,0
+2024-05-20,GT,SRH,GT,bat,"MA Chidambaram Stadium, Chennai",GT,0,7
+2024-05-26,RCB,RR,RCB,bat,"Arun Jaitley Stadium, Delhi",RR,0,4
+2024-05-26,GT,KKR,KKR,field,"Arun Jaitley Stadium, Delhi",GT,0,4
+2024-05-30,GT,CSK,CSK,field,"M. Chinnaswamy Stadium, Bengaluru",CSK,0,7
+2024-05-30,RCB,PBKS,RCB,field,"M. Chinnaswamy Stadium, Bengaluru",RCB,0,6
+2025-03-26,RCB,LSG,RCB,field,"Arun Jaitley Stadium, Delhi",LSG,0,6
+2025-03-26,GT,KKR,KKR,field,"HPCA Stadium, Dharamshala",GT,19,0
+2025-04-02,RCB,CSK,CSK,field,"MA Chidambaram Stadium, Chennai",CSK,16,0
+2025-04-02,GT,MI,MI,bat,"Rajiv Gandhi International Stadium, Hyderabad",GT,0,4
+2025-04-06,RCB,SRH,SRH,field,"Narendra Modi Stadium, Ahmedabad",RCB,0,5
+2025-04-06,GT,DC,GT,field,"Arun Jaitley Stadium, Delhi",GT,0,7
+2025-04-10,RCB,DC,RCB,bat,"HPCA Stadium, Dharamshala",DC,0,3
+2025-04-10,GT,MI,MI,bat,"Narendra Modi Stadium, Ahmedabad",GT,37,0
+2025-04-16,RCB,CSK,CSK,bat,"Narendra Modi Stadium, Ahmedabad",RCB,0,3
+2025-04-16,GT,DC,GT,field,"HPCA Stadium, Dharamshala",GT,5,0
+2025-04-18,RCB,GT,GT,field,"M. Chinnaswamy Stadium, Bengaluru",GT,0,7
+2025-04-20,GT,LSG,GT,field,"Arun Jaitley Stadium, Delhi",LSG,5,0
+2025-04-20,RCB,SRH,SRH,field,"Arun Jaitley Stadium, Delhi",SRH,0,5
+2025-04-27,GT,PBKS,GT,field,"Rajiv Gandhi International Stadium, Hyderabad",GT,0,5
+2025-04-27,RCB,LSG,LSG,field,"MA Chidambaram Stadium, Chennai",LSG,0,6
+2025-05-01,GT,SRH,GT,field,"Arun Jaitley Stadium, Delhi",SRH,0,5
+2025-05-01,RCB,RR,RR,bat,"M. Chinnaswamy Stadium, Bengaluru",RCB,0,3
+2025-05-07,RCB,PBKS,PBKS,field,"Eden Gardens, Kolkata",PBKS,0,8
+2025-05-07,GT,PBKS,GT,bat,"HPCA Stadium, Dharamshala",GT,0,6
+2025-05-10,GT,RCB,GT,field,"Narendra Modi Stadium, Ahmedabad",GT,30,0
+2025-05-11,GT,MI,MI,field,"M. Chinnaswamy Stadium, Bengaluru",GT,0,4
+2025-05-11,RCB,PBKS,RCB,field,"Narendra Modi Stadium, Ahmedabad",PBKS,0,3
+2025-05-15,GT,SRH,GT,field,"Arun Jaitley Stadium, Delhi",GT,60,0
+2025-05-15,RCB,DC,RCB,field,"HPCA Stadium, Dharamshala",RCB,59,0
+2025-05-20,GT,KKR,GT,field,"MA Chidambaram Stadium, Chennai",GT,5,0
+2025-05-20,RCB,KKR,RCB,field,"Rajiv Gandhi International Stadium, Hyderabad",KKR,0,5
+2025-05-25,RCB,CSK,CSK,bat,"Wankhede Stadium, Mumbai",RCB,31,0
+2025-05-25,GT,CSK,GT,field,"Narendra Modi Stadium, Ahmedabad",GT,0,5
+2025-06-01,GT,RR,GT,field,"Arun Jaitley Stadium, Delhi",GT,0,8
+2025-06-01,RCB,SRH,RCB,field,"MA Chidambaram Stadium, Chennai",SRH,0,7
+2026-03-27,RCB,LSG,LSG,field,"Narendra Modi Stadium, Ahmedabad",RCB,0,8
+2026-03-27,GT,KKR,KKR,field,"Arun Jaitley Stadium, Delhi",GT,0,3
+2026-04-02,RCB,LSG,LSG,field,"Wankhede Stadium, Mumbai",LSG,48,0
+2026-04-02,GT,CSK,GT,field,"M. Chinnaswamy Stadium, Bengaluru",GT,0,7
+2026-04-06,RCB,PBKS,RCB,field,"Wankhede Stadium, Mumbai",RCB,0,6
+2026-04-06,GT,KKR,GT,field,"Narendra Modi Stadium, Ahmedabad",GT,0,5
+2026-04-12,RCB,LSG,RCB,bat,"Eden Gardens, Kolkata",RCB,8,0
+2026-04-12,GT,DC,DC,field,"HPCA Stadium, Dharamshala",GT,0,5
+2026-04-17,RCB,PBKS,RCB,bat,"Rajiv Gandhi International Stadium, Hyderabad",RCB,8,0
+2026-04-17,GT,PBKS,PBKS,field,"Eden Gardens, Kolkata",GT,0,3
+2026-04-18,RCB,GT,GT,field,"M. Chinnaswamy Stadium, Bengaluru",GT,0,7
+2026-04-21,RCB,PBKS,PBKS,field,"HPCA Stadium, Dharamshala",PBKS,30,0
+2026-04-21,GT,DC,GT,field,"Wankhede Stadium, Mumbai",GT,0,3
+2026-04-26,RCB,DC,DC,field,"Rajiv Gandhi International Stadium, Hyderabad",RCB,0,5
+2026-04-26,GT,KKR,KKR,field,"M. Chinnaswamy Stadium, Bengaluru",GT,48,0
+2026-05-01,GT,KKR,KKR,field,"Arun Jaitley Stadium, Delhi",KKR,66,0
+2026-05-01,RCB,LSG,LSG,field,"Rajiv Gandhi International Stadium, Hyderabad",RCB,13,0
+2026-05-06,GT,SRH,SRH,field,"Rajiv Gandhi International Stadium, Hyderabad",SRH,0,7
+2026-05-06,RCB,DC,DC,bat,"MA Chidambaram Stadium, Chennai",RCB,5,0
+2026-05-10,GT,RCB,GT,field,"Narendra Modi Stadium, Ahmedabad",RCB,0,3
+2026-05-11,RCB,RR,RCB,field,"Eden Gardens, Kolkata",RR,0,4
+2026-05-11,GT,DC,GT,bat,"Wankhede Stadium, Mumbai",GT,0,8
+2026-05-17,GT,SRH,GT,field,"Rajiv Gandhi International Stadium, Hyderabad",GT,55,0
+2026-05-17,RCB,LSG,RCB,field,"Eden Gardens, Kolkata",RCB,57,0
+2026-05-21,GT,RR,RR,bat,"MA Chidambaram Stadium, Chennai",GT,0,3
+2026-05-21,RCB,SRH,RCB,bat,"Wankhede Stadium, Mumbai",SRH,0,5
+2026-05-26,RCB,RR,RR,bat,"Eden Gardens, Kolkata",RR,42,0
+2026-05-26,GT,LSG,GT,bat,"Arun Jaitley Stadium, Delhi",GT,33,0
+2026-05-30,RCB,LSG,LSG,field,"Arun Jaitley Stadium, Delhi",LSG,0,5
+2026-05-30,GT,RR,RR,field,"Wankhede Stadium, Mumbai",GT,42,0
