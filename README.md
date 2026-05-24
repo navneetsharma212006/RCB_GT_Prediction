@@ -19,7 +19,7 @@ rcb_gt_predictor/
 ```
 
 ## Installation
-1. **Clone the repository**
+1. **Clone the repository  **
 ```bash
 git clone https://github.com/navneetsharma212006/RCB_GT_Prediction.git
 cd RCB_GT_Prediction
